@@ -1,4 +1,8 @@
 opencv-python~=4.3.0.38
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+Werkzeug==0.15.5
 numpy~=1.19.4
 requests~=2.25.0
 Flask~=1.1.2
