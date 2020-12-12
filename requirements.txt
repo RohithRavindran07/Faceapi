@@ -1,4 +1,5 @@
 opencv-python~=4.3.0.38
+libGL.so.1
 numpy~=1.19.4
 requests~=2.25.0
 Flask~=1.1.2
