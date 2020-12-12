@@ -1,4 +1,4 @@
-opencv-python==4.4.0.46
+opencv-python
 itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
