@@ -9,4 +9,4 @@ flask_restful
 dlib~=19.21.0
 cmake~=3.18.4.post1
 click~=7.1.2
-certify 2020.12.5
+
